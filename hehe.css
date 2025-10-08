@@ -5,7 +5,7 @@
 }
 #container {
     border: 1px solid white;
-    width: 120%;
+    width: 97%;
     height: max-content;
     margin: 20px;
     
@@ -17,8 +17,8 @@
 
 }
 #header img{
-    width: 1500px;
-    height: 396px;
+    width: 1250px;
+    height: 300px;
     border-radius: 1px;
 }
 #body-content{
